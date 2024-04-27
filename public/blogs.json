@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "title": "The Art of Coding",
+      "cover": "https://i.ibb.co/wSrYcSv/Rectangle-2-5.png",
+      "author_name": "John Doe",
+      "author_img": "https://i.ibb.co/G5Kbsxv/author.jpg",
+      "posting_date": "2024-04-26",
+      "reading_time": "10 minutes",
+      "hashtag": "#coding #programming #webdevelopment"
+    },
+    {
+      "id": 2,
+      "title": "Exploring the Cosmos: A Journey Through Space",
+      "cover": "https://i.ibb.co/Vqz4tkd/Rectangle-2-6.png",
+      "author_name": "Jane Smith",
+      "author_img": "https://i.ibb.co/52QDn5B/man-2.jpg",
+      "posting_date": "2024-04-25",
+      "reading_time": "15 minutes",
+      "hashtag": "#space #astronomy #exploration"
+    },
+    {
+      "id": 3,
+      "title": "The Culinary World: From Farm to Table",
+      "cover": "https://i.ibb.co/cctwjKC/2.png",
+      "author_name": "Alice Johnson",
+      "author_img": "https://i.ibb.co/HVPGFpr/member3.png",
+      "posting_date": "2024-04-24",
+      "reading_time": "12 minutes",
+      "hashtag": "#food #cooking #farmtotable"
+    },
+    {
+      "id": 4,
+      "title": "The Power of Mindfulness: Finding Inner Peace",
+      "cover": "https://i.ibb.co/1Q0G53b/Rectangle-2-1.png",
+      "author_name": "Michael Brown",
+      "author_img": "https://i.ibb.co/PjL7JkF/man-4.jpg",
+      "posting_date": "2024-04-23",
+      "reading_time": "8 minutes",
+      "hashtag": "#mindfulness #meditation #wellness"
+    },
+    {
+      "id": 5,
+      "title": "Artificial Intelligence: Shaping the Future",
+      "cover": "https://i.ibb.co/vjTckbP/tech7.jpg",
+      "author_name": "Emily Wang",
+      "author_img": "https://i.ibb.co/KWvCqDG/member2.png",
+      "posting_date": "2024-04-22",
+      "reading_time": "20 minutes",
+      "hashtag": "#AI #technology #future"
+    }
+  ]
+  
