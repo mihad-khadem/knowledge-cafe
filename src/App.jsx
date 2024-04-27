@@ -4,15 +4,20 @@ import Bookmarks from "./components/bookmarks/Bookmarks";
 import Header from "./components/header/Header";
 
 function App() {
-  const [bookmark, setBookmark] = useState([]);
-  console.log("app => bookmark", bookmark);
+  const [bookmarks, setBookmarks] = useState([]);
+  //  Handle add bookmark
+  const handleBookmark = (blog) => {
+    // console.log("Adding Soon", blog);
+    const newBookMarks = [...bookmarks, blog];
+    setBookmarks(newBookMarks);
+  };
   return (
     <>
       <div className="max-w-5xl mx-auto py-3">
         <Header />
         <div className="md:flex justify-between">
-          <Blogs />
-          <Bookmarks />
+          <Blogs handleBookmark={handleBookmark} />
+          <Bookmarks bookmarks={bookmarks} />
         </div>
       </div>
     </>
